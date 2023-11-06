@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-18-boilerplate/static/css/main.23ff44b8.css",
+    "main.js": "/react-18-boilerplate/static/js/main.381687e7.js",
+    "static/js/787.15c3489f.chunk.js": "/react-18-boilerplate/static/js/787.15c3489f.chunk.js",
+    "index.html": "/react-18-boilerplate/index.html",
+    "main.23ff44b8.css.map": "/react-18-boilerplate/static/css/main.23ff44b8.css.map",
+    "main.381687e7.js.map": "/react-18-boilerplate/static/js/main.381687e7.js.map",
+    "787.15c3489f.chunk.js.map": "/react-18-boilerplate/static/js/787.15c3489f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23ff44b8.css",
+    "static/js/main.381687e7.js"
+  ]
+}

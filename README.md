@@ -2,6 +2,8 @@
 
 A Boilerplate with react v18, router v6 using the outlet
 
+Demo -> [https://react-18-boilerplate.netlify.app/](https://react-18-boilerplate.netlify.app/) to view it in the browser.
+
 ## Available Scripts
 
 In the project directory, you can run:

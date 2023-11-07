@@ -1,6 +1,6 @@
 # Boiler plate
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Boilerplate with react v18, router v6 using the outlet
 
 ## Available Scripts
 
